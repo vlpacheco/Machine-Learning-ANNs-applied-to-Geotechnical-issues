@@ -15,6 +15,7 @@ applied to the data sets of both studies. As a result, ANN 1 and ANN 2 obtained 
 Therefore, the optimal conditions of the ANNs were more accurate compared to the experimental data compared to the RSM methodology. 
 
 The main references for this approach were:
+
 *Case 01: Kahani et al. (2020) as the ref. goes: Kahani M, Kalantary F, Soudi MR, et al (2020) Optimization of cost effective culture medium for Sporosarcina pasteurii as biocementing agent using response surface methodology: Up cycling dairy waste and seawater. J Clean Prod 253:120022. doi: 10.1016/j.jclepro.2020.120022
 
 *Case 02: Okyay and Rodrigues 2014 as the refs goes: Okyay TO, Rodrigues DF (2014) Optimized carbonate micro-particle production by Sporosarcina pasteurii using response surface methodology. Ecol Eng 62:168–174. doi: 10.1016/j.ecoleng.2013.10.024
