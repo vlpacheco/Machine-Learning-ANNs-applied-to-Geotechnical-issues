@@ -1,14 +1,23 @@
 # Machine-Learning-ANNs-applied-to-Geotechnical-issues
 
-This repository is related to an application of ANNs to a Geotechnical issue. 
-So, the abstract of the research article goes as:
-Techniques that reduce the use of common cement such as Portland are the subject of studies in the current state-of-the-art. 
-Biocementation, or called Microbially Induced Calcite Precipitation (MICP) is a geotechnical alternative, 
-as well as for use in concretes, mortars, and immobilization of inorganic compounds. Based on the existing multi independent variables 
-and to determine the responses, methodologies for the optimization of such processes are used based on experimental data. For that, 
-the Response Surface Method (RSM) is a useful tool and widely used for this purpose. However, other alternatives have become viable with the development 
-of machine learning, such as Artificial Neural Networks (ANN). This article studied and compared the optimization of the specific urease activity (SUA) and 
-the calcium carbonate (CaCO3) precipitation rate previously performed through RSM by different authors and optimized the same variables through ANN. 
+This repository is related to an application of ANNs to a Geotechnical (MICP) issue. 
+
+## Problem
+For this approach we used MICP datasets from the state-of-the-art to be applied an optimization process via Artificial Neural Network.
+Based on the existing multi independent variables  and to determine the responses, methodologies for the optimization of such processes are 
+used based on experimental data. For that, the Response Surface Method (RSM) is a useful tool and widely used for this purpose. 
+However, other alternatives have become viable with the development of machine learning, such as Artificial Neural Networks (ANN). 
+
+## Aplication 
+This study applied and compared the optimization of the specific urease activity (SUA) and 
+the calcium carbonate (CaCO3) precipitation rate previously performed through RSM by different authors and optimized the 
+same variables through ANN. As it is shown in the next Figure, the inputs, hidden and output layers for the first case.
+
+![Alt Text] (vlpacheco/Machine-Learning-ANNs-applied-to-Geotechnical-issues/blob/main/Figures/Fig1.tif? raw=True "ANNs Design for SUA's dataset")
+
+
+
+
 The coefficient of determination (R2), average absolute deviation (AAD), and absolute error were analyzed and compared between the two methodologies, 
 also generating surface responses for the optimized ANN. With that, two neural networks, ANN 1 (for SUA) and ANN 2 (for CaCO3 precipitation) were developed and 
 applied to the data sets of both studies. As a result, ANN 1 and ANN 2 obtained coefficient errors of 0.9575 and 0.9968, respectively 
