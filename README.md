@@ -1,5 +1,5 @@
 # Machine-Learning-ANNs-applied-to-Geotechnical-issues
-This work is related to an application of ANNs to a Geotechnical issue. 
+This repository is related to an application of ANNs to a Geotechnical issue. 
 So, the abstract of the research article goes as:
 Techniques that reduce the use of common cement such as Portland are the subject of studies in the current state-of-the-art. 
 Biocementation, or called Microbially Induced Calcite Precipitation (MICP) is a geotechnical alternative, 
