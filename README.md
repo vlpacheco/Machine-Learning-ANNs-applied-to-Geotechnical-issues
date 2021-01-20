@@ -15,6 +15,7 @@ same variables through ANN. As it is shown in the next Figure, the inputs, hidde
 
 ![Alt Text](Figures/Fig1.jpg)
 
+## Metrics
 The coefficient of determination (R2), average absolute deviation (AAD), and absolute error were analyzed and compared between the two methodologies, 
 also generating surface responses for the optimized ANN. With that, two neural networks, ANN 1 (for SUA) and ANN 2 (for CaCO3 precipitation) were developed and 
 applied to the data sets of both studies. As a result, ANN 1 and ANN 2 obtained coefficient errors of 0.9575 and 0.9968, respectively 
