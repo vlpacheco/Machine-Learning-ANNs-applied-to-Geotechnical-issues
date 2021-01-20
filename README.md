@@ -15,7 +15,7 @@ same variables through ANN. As it is shown in the next Figure, the inputs, hidde
 
 ![Alt Text] (vlpacheco/Machine-Learning-ANNs-applied-to-Geotechnical-issues/blob/main/Figures/Fig1.tif? raw=True "ANNs Design for SUA's dataset")
 
-
+![Alt Text] (vlpacheco/Machine-Learning-ANNs-applied-to-Geotechnical-issues/blob/main/Figures/Fig1.jpg? raw=True "ANNs Design for SUA's dataset")
 
 
 The coefficient of determination (R2), average absolute deviation (AAD), and absolute error were analyzed and compared between the two methodologies, 
@@ -24,7 +24,7 @@ applied to the data sets of both studies. As a result, ANN 1 and ANN 2 obtained 
 (compared to coefficient errors via the RSM of 0.9021 and 0.8530, respectively). AAD and absolute error also demonstrated better accuracy. 
 Therefore, the optimal conditions of the ANNs were more accurate compared to the experimental data compared to the RSM methodology. 
 
-# The main references for this approach were:
+## The main references for this approach were:
 
 *Case 01: Kahani et al. (2020) as the ref. goes: Kahani M, Kalantary F, Soudi MR, et al (2020) Optimization of cost effective culture medium for Sporosarcina pasteurii as biocementing agent using response surface methodology: Up cycling dairy waste and seawater. J Clean Prod 253:120022. doi: 10.1016/j.jclepro.2020.120022
 
