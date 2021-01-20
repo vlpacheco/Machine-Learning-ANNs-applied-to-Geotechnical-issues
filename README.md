@@ -13,7 +13,7 @@ This study applied and compared the optimization of the specific urease activity
 the calcium carbonate (CaCO3) precipitation rate previously performed through RSM by different authors and optimized the 
 same variables through ANN. As it is shown in the next Figure, the inputs, hidden and output layers for the first case.
 
-![Alt Text](Figures/Figx.jpg)
+![Alt Text](Figures/Fluxograma ANN 02 Article Thesis.jpeg) 
 
 ## Metrics
 The coefficient of determination (R2), average absolute deviation (AAD), and absolute error were analyzed and compared between the two methodologies, 
