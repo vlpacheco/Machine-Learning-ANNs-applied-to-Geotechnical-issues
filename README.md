@@ -13,7 +13,7 @@ This study applied and compared the optimization of the specific urease activity
 the calcium carbonate (CaCO3) precipitation rate previously performed through RSM by different authors and optimized the 
 same variables through ANN. As it is shown in the next Figure, the inputs, hidden and output layers for the first case.
 
-![ANN design for the output 'SUA'] (vlpacheco/Machine-Learning-ANNs-applied-to-Geotechnical-issues/blob/main/Figures/Fig1.tif)
+![Alt Text] (vlpacheco/Machine-Learning-ANNs-applied-to-Geotechnical-issues/blob/main/Figures/Fig1.tif? raw=True "ANNs Design for SUA's dataset")
 
 
 
